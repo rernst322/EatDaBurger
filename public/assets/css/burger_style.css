@@ -1,0 +1,93 @@
+body {
+	background-color: rgb(237, 208, 119);
+	font-family: helvetica neue;
+	width: 100%;
+}
+
+li {
+	font-family: helvetica neue;
+	font-color: purple;
+	list-style: none;
+}
+
+h1 {
+	font-color: blue;
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+.burger{
+	width: 60%;
+	margin: auto;
+}
+.left{
+	height: 200px;
+	width: 45%;
+	float: left;
+	clear: left;
+	padding: 10px;
+	
+	
+}
+
+.right{
+	height: 200px;
+	width: 45%;
+	float: left;
+	clear: right;
+	padding: 10px;
+	
+	margin: auto;
+}
+
+.add {
+
+	width: 50%;
+	margin: auto;
+	clear: left;
+	padding: 10px;
+
+	text-align: center;
+}
+
+.right button {
+	font-size: 16px;
+	padding: 4px;
+	margin: auto;
+	float: left;
+	clear: right;
+	width: 100%;
+
+}
+
+.img {
+	margin: auto;
+	text-align: center;
+	width: 20%;
+}
+.left button {
+	font-size: 16px;
+	padding: 4px;
+	margin: auto;
+	float: left;
+	clear: right;
+	width: 100%;
+
+}
+
+
+.add button {
+	font-size: 16px;
+	padding: 4px;
+	margin: 5px;
+	text-align: center;
+	width: 50%;
+
+}
+
+.create-form {
+	margin: auto;
+	width: 50%;
+}
